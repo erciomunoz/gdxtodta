@@ -1,0 +1,10 @@
+v v1.0.0
+d 'GDXTODTA': GDX to DTA
+d 
+d Going from a GDX (GAMS) file to Stata (dta)
+d 
+d Distribution-Date:   20221011
+d License: Academic Free License v3.0
+d 
+F gdxtodta.ado
+F gdxtodta.sthlp

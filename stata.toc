@@ -1,0 +1,9 @@
+v v1.0.0
+d Materials by Ercio Munoz
+d The World Bank
+d emunozsaavedra@worldbank.org
+d https://www.erciomunoz.org/
+
+d 'gdxtodta': Going from a GDX (GAMS) file to Stata (dta)
+
+p gdxtodta
